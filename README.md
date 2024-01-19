@@ -1,7 +1,7 @@
 # **Class Test Program**
 
 ## **Description:**
-The Class Test Program, authored by Okunlola Faozee Bayo, is written in Fortran. This program processes student marks stored in an external file named "MARKS.txt" and generates output to an external file named "Output.txt." The program calculates the average marks of students and determines the number of students who passed the test.
+This program processes student marks stored in an external file named "MARKS.txt" and generates output to an external file named "Output.txt." The program calculates the average marks of students and determines the number of students who passed the test.
 
 ## **Usage:**
 1. Ensure the "MARKS.txt" file contains the marks of students, each on a separate line.
