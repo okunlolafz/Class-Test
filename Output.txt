@@ -1,0 +1,4 @@
+ Average marks of students = 
+5.00
+ Number of students that passed = 
+6
